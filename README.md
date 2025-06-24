@@ -20,13 +20,15 @@ To contribute to a Security Operations Center (SOC) team where I can apply my sk
 
 
 🛠️ Skills
-Skill	Associated Project
-SIEM Implementation and Log Analysis	<a href="https://google.com">Active Directory + Splunk Project</a>
-Network Traffic Monitoring and Attack Detection	<a href="https://google.com">Home Lab (Attack-Defense)</a>
-Security Automation with Shuffle SOAR	<a href="https://google.com">SOC Automation Project</a>
-Incident Response Planning and Execution	<a href="https://google.com">SOC Automation Project</a>
-Case Management with TheHive	<a href="https://google.com">SOC Automation Project</a>
-Scripting and Automation for Threat Mitigation	<a href="https://google.com">SOAR + EDR Integration Project</a>
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Incident Response Planning and Execution      | SOC Automation Lab|
+| Case Management with TheHive                  | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 
 🧰 Tools
